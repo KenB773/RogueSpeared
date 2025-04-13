@@ -1,4 +1,4 @@
-# RogueSpeared:  *WAV + XOR Encrypted Python 'Polyglot' File Generator*
+# RogueSpeared:  WAV + XOR Encrypted Python 'Polyglot' File Generator
 
 **Non-malicious, safe to execute, and for educational and/or red-teaming purposes only.**
 
