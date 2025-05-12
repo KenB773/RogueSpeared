@@ -6,7 +6,7 @@ This repo contains a Python-based tool to generate fully functional polyglot fil
 - Valid **WAV audio files**
 - Executable **Python scripts** with encrypted payloads
 
-Perfect for red teaming, security demos, or portfolio proof-of-concepts.
+Perfect for red teaming, security demos or just showing your friends how cool you are.
 
 ---
 
